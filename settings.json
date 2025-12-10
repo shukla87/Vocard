@@ -1,9 +1,9 @@
 {
-    "token": "YOUR_BOT_TOKEN",
-    "client_id": "YOUR_BOT_CLIENT_ID",
-    "genius_token": "YOUR_GENIUS_TOKEN",
-    "mongodb_url": "YOUR_MONGODB_URL",
-    "mongodb_name": "YOUR_MONGODB_DB_NAME",
+    "token": "YOUR_BOT_TOKEN":"7656543932:AAHqyZpdTcSmDCJ5ptoqf3iHMqvGXI-6xxs",
+    "client_id": "YOUR_BOT_CLIENT_ID":"-wgqr-btMdABNnM-lxA-bGnW1vqRYsw7N0TVZYkGC_x2gVqnxnXdcsvJGch9Z9sy",
+    "genius_token": "YOUR_GENIUS_TOKEN":"igvHGdgKQtboQ9_C4TOtw6RiwaLMBudhZPV5mhMDs64J7OOMKkG30UzyT8ZkrH2R",
+    "mongodb_url": "YOUR_MONGODB_URL":"mongodb+srv://divyanshshukla5375_db_user:1kZ2dsVTktdMljpr@cluster0.lo5qk5v.mongodb.net/?appName=Cluster0",
+    "mongodb_name": "YOUR_MONGODB_DB_NAME":"divyanshshukla5375_db_user",
     "nodes": {
         "DEFAULT": {
             "host": "lavalink",
