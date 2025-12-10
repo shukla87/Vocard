@@ -30,4 +30,4 @@ COPY --from=builder /usr/local/lib/python3.12/site-packages /usr/local/lib/pytho
 COPY . .
 
 # Run the application
-CMD python create_settings.py && python main.py
+CMD python settings.py && python main.py
