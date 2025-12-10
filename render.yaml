@@ -1,0 +1,10 @@
+services:
+  - type: web
+    name: vocard
+    env: docker
+    repo: https://github.com/ChocoMeow/Vocard
+    branch: main
+    dockerContext: .
+    dockerfilePath: Dockerfile
+    plan: free
+    autoDeploy: true
